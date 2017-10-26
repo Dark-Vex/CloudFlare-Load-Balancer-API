@@ -1,7 +1,5 @@
 # CloudFlare-Load-Balancer-API
 
-# README #
-
 ### What is this repository for? ###
 
 * Pyhon script for create, list, delete Cloudflare load balancer monitor/pools/balancer
